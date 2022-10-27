@@ -2,7 +2,7 @@
 
 README 
 
-In this folder, there are three files submitted, excluding the README. The files are:
+In the AzuraCast folder, there are three files submitted, excluding the README. The files are:
 .env
 docker-compose.override.yml
 local_build.sh
