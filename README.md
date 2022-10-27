@@ -7,6 +7,7 @@ In the AzuraCast folder, there are three files submitted, excluding the README. 
 docker-compose.override.yml
 local_build.sh
 
+Before editing these files, you first need to install AzuraCast
 
 AZURACAST INSTALLATION - Steps I took
 
