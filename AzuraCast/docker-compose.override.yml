@@ -1,0 +1,14 @@
+version: "3"
+services:
+  web:
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.azuracast.rule=Host(`${TRAEFIK_API_RULE_AZURACAST}.${inethiDN}`)"
+      - "traefik.http.routers.azuracast.entrypoints=${TRAEFIK_ENTRYPOINT}"
+    networks:
+      - default
+
+networks:
+  default:
+    external:
+      name: "${INETHI_NETWORK}"
