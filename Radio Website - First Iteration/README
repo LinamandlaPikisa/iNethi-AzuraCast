@@ -1,0 +1,14 @@
+README
+
+This website was built during the first iteration of development using designs that were suggested by the community. 
+
+
+To access or view the website, open Home.html with your browser.
+
+Since the NUC that Azuracast is installed on is not always on and is not always connected, we could not use it for this website. The IP address of the Intel nuc is always changing as well. Therefore, we used an instance of AzuraCast that we installed on Oracle for demo purposes.
+
+The community suggested that the website, together with the one created and developed by Mujaahid should be integrated because they felt there were too many systems.
+
+Therefore, we combined this website together with the monetization platform which will be in Mujaahid's submission.
+
+NB: Some parts of the website do not work as intended because this was just to layout the design and it was the first iteration. These parts include the contact form as well as the links to the Monetization platform. 
